@@ -1,6 +1,6 @@
 # 📸 Camera MVVM App
 
-**⚠️ Nota:** Este app requer permissões de câmera e localização para funcionar corretamente. Teste sempre em dispositivo físico para melhor experiência.# 📸 Camera MVVM App
+**⚠️ Nota:** Este app requer permissões de câmera e localização para funcionar corretamente. Teste sempre em dispositivo físico para melhor experiência.
 
 Uma aplicação React Native moderna para captura de fotos com geolocalização, desenvolvida com arquitetura MVVM e interface Gluestack UI.
 
